@@ -1,2 +1,2 @@
 # Character_counter
-!Screenshot.png
+![](Screenshot.png)
